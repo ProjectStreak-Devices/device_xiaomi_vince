@@ -1,0 +1,12 @@
+[
+  {
+    "repository"  : "vendor_xiaomi_vince",
+    "target_path" : "vendor/xiaomi/vince",
+    "branch"      : "eleven"
+  },
+  {
+    "repository"  : "stormbreaker-project/kernel_xiaomi_vince",
+    "target_path" : "kernel/xiaomi/vince",
+    "branch"      : "r11.0"
+  }
+]
