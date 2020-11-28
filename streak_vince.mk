@@ -24,6 +24,7 @@ $(call inherit-product, device/xiaomi/vince/device.mk)
 # Inherit some common ProjectStreak stuff.
 $(call inherit-product, vendor/streak/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1440
+TARGET_BUILD_GAPPS := true
 
 # Build Official
 STREAK_BUILD_TYPE := OFFICIAL
